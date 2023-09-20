@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### My Resume: [https://www.vh-frontend.com/]
+
 <!--
 **VHromyk/VHromyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
